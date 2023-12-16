@@ -1,0 +1,65 @@
+#d{
+    height: 550px;
+    width: 100%;
+}
+.box1{
+    height:550px;
+    width: 48%;
+   
+    float: left;
+}
+.box2{
+    height: 550px;
+    width:49%;
+    float: left;
+    background-color: #f2f2f2;
+    padding-left:15px;
+}
+h1{
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+h2{
+   margin: 15px;
+   padding-right: 10px;
+   line-height: 5px;
+}
+h3{
+    margin: 15px;
+    padding-left: 400px;
+    line-height: 5px;
+    
+ }
+
+.pa{
+    width: 90%;
+    margin: 5px;
+    font-size: 35px;
+}.te{
+    width: 90%;
+    margin: 5px;
+    font-size: 30px;
+}
+.m{
+    width: 90%;
+    margin: 15px;
+    margin-top: 25px;
+    font-size: 30px;
+}
+.m:hover{
+    background-color: cadetblue;
+}
+.icon{
+padding-left: 225px;
+margin-top: 20px;
+}
+
+.icon i{
+    background-color: lightgrey;
+    border: 1px solid grey;
+    border-radius: 6px;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    text-align: center;
+}
